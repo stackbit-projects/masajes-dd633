@@ -88,8 +88,7 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     features:
-      - subtitle: lorem-ipsum
-        content: >
+      - content: >
           Acceso y soporte **de por vida** a nuestro **sistema de preguntas y
           respuestas **tipo foro.
         actions: []
