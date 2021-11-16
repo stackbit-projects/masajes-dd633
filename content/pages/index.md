@@ -32,10 +32,22 @@ sections:
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >+
+          ¿Te gustaría emprender un negocio rentable relacionado con motos?
+
+
+
+          ¡Pues bien! Monta un taller de reparación de motos, pero antes de esto
+          debes aprender de mecánica para motos.
+
+
+
+
+          Te enseñaremos todo lo relacionado con mecánica para motos, te
+          compartiremos libros digitales, videotutoriales, recomendaciones,
+          trucos, entrenamientos para que des ese primer paso de emprender con
+          un taller de motos.
+
         actions:
           - label: Adquiere ya nuestra promoción
             url: 'https://go.hotmart.com/V62235694E'
