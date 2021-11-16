@@ -78,7 +78,6 @@ sections:
         image: images/feature-1.svg
         media_position: right
         media_width: sixty
-        video_embed_html: 1er video promocional 16.9.
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
