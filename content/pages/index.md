@@ -65,7 +65,7 @@ sections:
           products look great, sound great, and sell more on your choice of
           ecommerce platform.
         actions:
-          - label: '36 '
+          - label: 36 cupos disponibles
             url: /about
             style: secondary
             has_icon: true
