@@ -107,7 +107,7 @@ sections:
     type: features_section
     title: 'Bono 3: Soporte'
   - type: grid_section
-    title: Testimonials
+    title: Testimonios
     subtitle: ¿Qué dicen nuestros usuarios?
     grid_items:
       - content: |
