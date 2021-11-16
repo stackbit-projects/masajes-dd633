@@ -124,12 +124,8 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
+      - content: |
+          **![](/images/testimonio4.png)
         image_position: left
         image_width: twenty-five
     grid_cols: two
