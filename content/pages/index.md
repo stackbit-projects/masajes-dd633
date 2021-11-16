@@ -112,7 +112,6 @@ sections:
     grid_items:
       - content: |
           **![](/images/testimonio1.png)
-        image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
       - content: >-
