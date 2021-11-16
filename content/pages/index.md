@@ -10,7 +10,7 @@ sections:
       - label: Adquiere el curso!
         url: 'https://go.hotmart.com/V62235694E'
         style: secondary
-        has_icon: true
+        has_icon: false
     image: /images/moto1.png
     image_alt: A smiling woman
     media_position: right
