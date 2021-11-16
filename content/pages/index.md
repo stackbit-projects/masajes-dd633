@@ -58,6 +58,7 @@ sections:
         image: /images/moto2.png
         media_position: right
         media_width: sixty
+        align: center
       - title: Junto con el curso también adquirirás los próximos bonos
         subtitle: 'Bono 1: Acceso ilimitado'
         content: >
