@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: Conviértete en un mecánico Pro
     subtitle: >-
-      Tú moto puede tener fallas en cualquier momento y no en cada lugar al que
-      vayas vas a poder encontrar un buen mecánico
+      ¿Estás cansado de pagar para que te arreglen la moto?¿Quieres aprender a
+      arreglar tu moto tú mismo?Te enseñaremos los fundamentos de la mecánica de
+      motos de una manera divertida y fácil de entender.¡Serás capaz de cuidar
+      la moto tú mismo en poco tiempo!
     actions:
       - label: Adquiere el curso!
         url: 'https://go.hotmart.com/V62235694E'
