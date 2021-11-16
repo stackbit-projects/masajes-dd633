@@ -65,7 +65,7 @@ sections:
 
           No importa si no sabes nada ya que irá de 0 a Pro
         actions:
-          - label: Adquiere ya nuestra promoción
+          - label: 'CLICK AQUÍ PARA '
             url: 'https://go.hotmart.com/V62235694E'
             style: primary
             has_icon: true
