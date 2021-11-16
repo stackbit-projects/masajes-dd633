@@ -31,7 +31,6 @@ sections:
     subtitle: Te convertirás en tú propio mecánico y ¿Por que no el de tus amigos?
     features:
       - title: Content Creation
-        subtitle: 'Website, blog, social media and more.'
         content: >+
           ¿Te gustaría emprender un negocio rentable relacionado con motos?
 
