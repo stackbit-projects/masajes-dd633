@@ -27,7 +27,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: My services
+    title: Mis servicios
     subtitle: Te convertirás en tú propio mecánico y ¿Por que no el de tus amigos?
     features:
       - content: >+
