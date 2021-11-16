@@ -38,7 +38,7 @@ sections:
           case studies and product descriptions. No job is too big or small!
         actions:
           - label: See Writing Samples
-            url: /faq
+            url: 'https://go.hotmart.com/V62235694E'
             style: primary
             has_icon: true
             icon: arrow-right
