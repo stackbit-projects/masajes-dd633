@@ -65,7 +65,7 @@ sections:
           products look great, sound great, and sell more on your choice of
           ecommerce platform.
         actions:
-          - label: Learn More
+          - label: '36 '
             url: /about
             style: secondary
             has_icon: true
