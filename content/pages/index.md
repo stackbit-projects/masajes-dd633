@@ -157,7 +157,9 @@ sections:
     background_image_opacity: 12
 seo:
   title: Mecánica para motos
-  description: The preview of the Personal theme
+  description: >-
+    Aprenderás todos los conocimientos para arreglar tú moto sin ayuda de
+    terceros de manera profesional
   extra:
     - name: 'og:type'
       value: website
