@@ -66,7 +66,7 @@ sections:
           ecommerce platform.
         actions:
           - label: 36 cupos disponibles
-            url: /about
+            url: 'https://go.hotmart.com/V62235694E'
             style: secondary
             has_icon: true
             icon: arrow-right
