@@ -76,10 +76,9 @@ sections:
         media_position: right
         media_width: sixty
       - subtitle: 'Bono 2: Acceso exclusivo'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Contaras con acceso exclusivo a la comunidad de Telegram donde
+          compartiremos contenido de altísimo valor
         actions:
           - label: See Past Work
             url: /faq
