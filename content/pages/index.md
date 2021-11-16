@@ -8,7 +8,7 @@ sections:
       vayas vas a poder encontrar un buen mecánico
     actions:
       - label: Adquiere el curso!
-        url: /contact
+        url: 'https://go.hotmart.com/V62235694E'
         style: primary
     image: /images/moto1.png
     image_alt: A smiling woman
