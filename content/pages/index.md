@@ -156,7 +156,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
 seo:
-  title: Stackbit Personal Theme
+  title: Mecánica para motos
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
