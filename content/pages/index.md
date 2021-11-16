@@ -99,7 +99,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    subtitle: 'Bono 3: '
+    subtitle: 'Bono 3: Soporte'
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
