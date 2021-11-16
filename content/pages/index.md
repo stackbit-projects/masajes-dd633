@@ -108,7 +108,7 @@ sections:
     title: 'Bono 3: Soporte'
   - type: grid_section
     title: Testimonials
-    subtitle: What My Clients Say
+    subtitle: ¿Qué dicen nuestros usuarios?
     grid_items:
       - content: |
           **![](/images/testimonio1.png)
