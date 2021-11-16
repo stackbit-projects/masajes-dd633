@@ -43,7 +43,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.svg
+        image: /images/moto2.png
         media_position: right
         media_width: sixty
       - title: Online Store Management
