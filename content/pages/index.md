@@ -59,7 +59,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Junto con el curso también adquirirás los próximos bonos
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: 'Bono 1: Acceso ilimitado'
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
