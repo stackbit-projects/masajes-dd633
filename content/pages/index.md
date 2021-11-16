@@ -30,66 +30,38 @@ sections:
     title: Mis servicios
     subtitle: Te convertirás en tú propio mecánico y ¿Por que no el de tus amigos?
     features:
-      - content: >
+      - content: |
           \- Cómo funciona una moto y que partes la componen parte 1
-
-
-
 
           *   \- Cómo funciona una moto y que partes la componen parte 2
 
+          *   \- Recomendaciones generales mantenimiento de una moto
 
-          *    \- Recomendaciones generales mantenimiento de una moto
+          *   \- Como calibrar las bujías de la moto
 
-
-          *    \- Como calibrar las bujías de la moto
-
-
-          *   *   Como hacer un mantenimiento completo al freno de disco pt2*  
-          Como hacer un mantenimiento completo al freno de disco pt3*   Como
-          hacer un mantenimiento completo al freno de disco pt4*   Como hacer un
-          mantenimiento completo al freno de disco pt5*   Como hacer un
-          mantenimiento completo al freno de disco pt6*    \- Cómo funciona un
-          clutch de moto
-
-              Como hacer un mantenimiento completo al freno de disco 
-
-              <!---->
-
-
+          <!---->
 
           *   Como verificar la cantidad de aceite fácilmente
 
-
           *   Parte No.31 - Que es un filtro de aire
-
 
           *   Parte No.32 - Cómo comprobar una bujía fácilmente
 
-
           *   Parte No.33 - Todo lo que debes saber de las llantas de tu moto
-
 
           *   Analizando una llanta a profundidad Parte 1
 
-
           *   Analizando una llanta a profundidad Parte 2
-
 
           *   Como recortar una cadena fácilmente
 
+          *   \- Cómo cambiar la cadena de la moto
 
-          *    \- Cómo cambiar la cadena de la moto
+          *   \- Cómo solucionar encendido de la moto
 
-
-          *    \- Cómo solucionar encendido de la moto
-
-
-          *    \- Cómo aplicar Wrap o vinilo
-
+          *   \- Cómo aplicar Wrap o vinilo
 
           ###### Esto y mucho más!
-
 
           No importa si no sabes nada ya que irá de 0 a Pro
         actions:
