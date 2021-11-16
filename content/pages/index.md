@@ -60,10 +60,9 @@ sections:
         media_width: sixty
       - title: Junto con el curso también adquirirás los próximos bonos
         subtitle: 'Bono 1: Acceso ilimitado'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Tendrás acceso al curso las veces que quieras para toda la vida,
+          incluye actualizaciones y nuevos contenidos por siempre!
         actions:
           - label: 36 cupos disponibles
             url: 'https://go.hotmart.com/V62235694E'
