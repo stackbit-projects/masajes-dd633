@@ -79,6 +79,18 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
+        video_embed_html: >
+          ¿Estás cansado de pagar para que te arreglen la moto?
+
+
+          ¿Quieres aprender a arreglar tu moto tú mismo?
+
+
+          Te enseñaremos los fundamentos de la mecánica de motos de una manera
+          divertida y fácil de entender.
+
+
+          ¡Serás capaz de cuidar la moto tú mismo en poco tiempo!
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
