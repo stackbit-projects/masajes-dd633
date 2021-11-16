@@ -30,8 +30,7 @@ sections:
     title: My services
     subtitle: Te convertirás en tú propio mecánico y ¿Por que no el de tus amigos?
     features:
-      - title: Content Creation
-        content: >+
+      - content: >+
           ¿Te gustaría emprender un negocio rentable relacionado con motos?
 
 
