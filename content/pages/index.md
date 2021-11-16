@@ -89,17 +89,9 @@ sections:
   - section_id: lorem-ipsum
     features:
       - subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Acceso y soporte **de por vida** a nuestro **sistema de preguntas y
+          respuestas **tipo foro.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
