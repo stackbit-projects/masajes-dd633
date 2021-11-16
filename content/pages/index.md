@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Conviértete en un mecánico Pro
-    subtitle: 'Tú moto puede tener problemas en cualquier momento,'
+    subtitle: >-
+      Tú moto puede tener fallas en cualquier momento y no en cada lugar al que
+      vayas vas a poder encontrar un buen mecánico
     actions:
       - label: Contact Me
         url: /contact
