@@ -58,7 +58,7 @@ sections:
         image: /images/moto2.png
         media_position: right
         media_width: sixty
-      - title: Online Store Management
+      - title: Junto con el curso también adquirirás los próximos bonos
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
           Managing an online business is a full-time job. I will make sure your
