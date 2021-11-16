@@ -7,7 +7,7 @@ sections:
       Tú moto puede tener fallas en cualquier momento y no en cada lugar al que
       vayas vas a poder encontrar un buen mecánico
     actions:
-      - label: Contact Me
+      - label: A
         url: /contact
         style: primary
     image: /images/moto1.png
