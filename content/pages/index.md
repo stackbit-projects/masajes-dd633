@@ -28,7 +28,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: Te convertirás en tú propio mecánico y ¿Por que no el de tus amigos?
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
