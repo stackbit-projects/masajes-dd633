@@ -168,7 +168,9 @@ seo:
       value: mécanica para motos desde 0
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        El curso con el que podrás arreglar tú moto por tu misma cuenta y ¿por
+        que no la de tus compañeros de rodadas?
       keyName: property
     - name: 'og:image'
       value: /images/moto1-725c7ce0.png
