@@ -161,9 +161,6 @@ seo:
     Aprenderás todos los conocimientos para arreglar tú moto sin ayuda de
     terceros de manera profesional
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
     - name: 'og:title'
       value: mécanica para motos desde 0
       keyName: property
