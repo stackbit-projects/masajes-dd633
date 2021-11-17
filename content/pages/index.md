@@ -165,7 +165,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: mécanica para motos desde 0
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
