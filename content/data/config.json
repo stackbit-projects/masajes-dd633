@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "green",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "footer": {
         "logo": "images/logo.svg",
         "logo_alt": "Personal logo",
